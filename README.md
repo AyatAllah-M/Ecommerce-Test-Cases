@@ -18,9 +18,7 @@ The purpose of this work is to practice writing clear, structured, and effective
 - Writing clear and reusable test cases
 - Covering positive and negative scenarios
 - Understanding common e-commerce workflows
-
-
-
+<br>
 
 Ecommerce-Test-Cases/
 
