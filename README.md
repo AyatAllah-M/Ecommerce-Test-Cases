@@ -20,13 +20,9 @@ The purpose of this work is to practice writing clear, structured, and effective
 - Understanding common e-commerce workflows
 <br>
 
-Ecommerce-Test-Cases/<br>
-│
-
-├── TestCases-Login.xlsx
-
-├── TestCases Search.xlsx
-
-├── TestCases Shopping cart.xlsx
-
+Ecommerce-Test-Cases/ <br>
+│<br>
+├── TestCases-Login.xlsx <br>
+├── TestCases Search.xlsx <br>
+├── TestCases Shopping cart.xlsx <br>
 └── README.md
