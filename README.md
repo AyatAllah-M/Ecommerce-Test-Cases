@@ -21,7 +21,11 @@ The purpose of this work is to practice writing clear, structured, and effective
 
 Ecommerce-Test-Cases/
 │
+
 ├── TestCases-Login.xlsx
+
 ├── TestCases Search.xlsx
+
 ├── TestCases Shopping cart.xlsx
+
 └── README.md
